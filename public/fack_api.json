@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Lorem Ipsum",
+        "cover": "https://i.ibb.co/vLVVttx/1-7.jpg",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/5vZpZD4/1-4.jpg",
+        "time": "12:00 PM",
+        "hashtag": "#LoremIpsum",
+        "published_date": "Mar 10 (2 Days ago)"
+    },
+    {
+        "id": 2,
+        "title": "Dolor Sit Amet",
+        "cover": "https://i.ibb.co/qxfvZ52/free-texture-friday-2356.jpg",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/rwN0QCF/1-5.jpg",
+        "time": "03:30 PM",
+        "hashtag": "#DolorSitAmet",
+        "published_date": "Mar 14 (5 Days ago)"
+    },
+    {
+        "id": 3,
+        "title": "Consectetur Adipiscing",
+        "cover": "https://i.ibb.co/2NVHBKx/1-9.jpg",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/sb01KfW/1-3.jpg",
+        "time": "09:15 AM",
+        "hashtag": "#ConsecteturAdipiscing",
+        "published_date": "Feb 10 (2 Days ago)"
+    },
+    {
+        "id": 4,
+        "title": "Sed Do Eiusmod Tempor",
+        "cover": "https://i.ibb.co/wdQMTm7/1-2.jpg",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/tc2C31Y/1-11.jpg",
+        "time": "06:45 PM",
+        "hashtag": "#SedDoEiusmodTempor",
+        "published_date": "Mar 5 (20 Days ago)"
+    },
+    {
+        "id": 5,
+        "title": "Labore Et Dolore Magna",
+        "cover": "https://i.ibb.co/ky1fJwp/1-7.jpg",
+        "author": "Emily Wilson",
+        "author_img": "https://i.ibb.co/tc2C31Y/1-11.jpg",
+        "time": "10:10 AM",
+        "hashtag": "#LaboreEtDoloreMagna",
+        "published_date": "Jan 11 (1 Month ago)"
+    }
+]
